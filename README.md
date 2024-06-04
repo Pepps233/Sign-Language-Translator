@@ -13,6 +13,7 @@ Functionality:
 - Append the alphabets into a string or something
 - Read out the appended string
 
-Libraries:
-tensorflow - 2.9.1
-mediapipe - 0.9.1.0
+## Libraries:
+### tensorflow - 2.9.1
+### mediapipe - 0.9.1.0
+### Python interpreter versions - 3.6-3.9
