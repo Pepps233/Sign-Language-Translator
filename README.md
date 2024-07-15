@@ -17,3 +17,12 @@ Functionality:
 ### tensorflow - 2.9.1
 ### mediapipe - 0.9.1.0
 ### Python interpreter versions - 3.6-3.9
+
+# Key bindings:
+add letter to speech string: a
+
+tts: p
+
+clear speech string: c
+
+remove last letter: l
